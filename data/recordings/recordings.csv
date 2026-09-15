@@ -1,0 +1,11 @@
+recording_id,filename,speaker_id,source_type,topic,recording_date,notes
+REC0001,ai_not.mp3,S0001,spoken,ai_not,2026-09-10,
+REC0002,diet.mp3,S0001,spoken,diet,2026-09-10,
+REC0003,ke_busy.mp3,S0001,spoken,ke_busy,2026-09-10,
+REC0004,ke_boregile.mp3,S0001,spoken,ke_boregile,2026-09-10,
+REC0005,ke_dira_eng.mp3,S0001,spoken,ke_dira_eng,2026-09-10,
+REC0006,motivation_ga_o_yo.mp3,S0001,spoken,motivation_ga_o_yo,2026-09-10,
+REC0007,ngwana.mp3,S0001,spoken,ngwana,2026-09-10,
+REC0008,nna.mp3,S0001,spoken,nna,2026-09-10,
+REC0009,project.mp3,S0001,spoken,project,2026-09-10,
+REC0010,project_depth.mp3,S0001,spoken,project_depth,2026-09-10,

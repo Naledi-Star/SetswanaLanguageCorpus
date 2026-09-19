@@ -1,0 +1,61 @@
+annotation_id,recording_id,type,text,notes
+ANN0001,REC0001,code_switch,AI,English/technical term used within Setswana speech
+ANN0002,REC0001,code_switch,ChatGPT,English/technical proper name used within Setswana speech
+ANN0003,REC0001,code_switch,something,English word used within Setswana sentence
+ANN0004,REC0001,code_switch,poetry,English word used while discussing Setswana poetry
+ANN0005,REC0001,code_switch,surprised,English adjective used within Setswana speech
+ANN0006,REC0001,code_switch,most people,English phrase used within Setswana speech
+ANN0007,REC0002,code_switch,diet,English word used within Setswana speech
+ANN0008,REC0002,code_switch,keto,Diet/technical term used within Setswana speech
+ANN0009,REC0002,loanword/adapted,borice,Setswana bo- used with the English word rice
+ANN0010,REC0002,code_switch,like,English word used within Setswana speech
+ANN0011,REC0002,code_switch,carbs,English/technical term used within Setswana speech
+ANN0012,REC0002,code_switch,stress,English word used within Setswana speech
+ANN0013,REC0003,code_switch,ok,English word used within Setswana speech
+ANN0014,REC0003,code_switch,after an hour,English phrase used within Setswana speech
+ANN0015,REC0003,code_switch,I'll call you then,English phrase used within Setswana speech
+ANN0016,REC0004,loanword/adapted,boregile,English-derived form adapted into Setswana morphology; bore + -gile
+ANN0017,REC0004,code_switch,I dont know,English phrase used within Setswana speech
+ANN0018,REC0005,code_switch,this dataset thing,English phrase used within Setswana speech
+ANN0019,REC0005,code_switch,like,English word used within Setswana speech
+ANN0020,REC0005,code_switch,AI,Technical acronym used within Setswana speech
+ANN0021,REC0005,code_switch,straight,English word used within Setswana speech
+ANN0022,REC0005,code_switch,because,English conjunction used within Setswana speech
+ANN0023,REC0005,code_switch,yes,English word used within Setswana speech
+ANN0024,REC0005,code_switch,but,English conjunction used within Setswana speech
+ANN0025,REC0005,code_switch,if I am being honest,English phrase used within Setswana speech
+ANN0026,REC0005,code_switch,phrases,English word used within Setswana speech
+ANN0027,REC0005,loanword/adapted,iformela,English-derived form from form incorporated into Setswana morphology
+ANN0028,REC0006,loanword/adapted,houra,English-derived form from hour incorporated into Setswana speech
+ANN0029,REC0006,code_switch,4 hours,English phrase used within Setswana speech
+ANN0030,REC0006,code_switch,after lunch,English phrase used within Setswana speech
+ANN0031,REC0006,code_switch,still,English word used within Setswana speech
+ANN0032,REC0006,loanword/adapted,dishopong,English-derived form from shop incorporated into Setswana morphology
+ANN0033,REC0006,loanword/adapted,motivation,English-derived vocabulary incorporated into Setswana speech
+ANN0034,REC0007,code_switch,stress,English-derived word used directly within Setswana speech
+ANN0035,REC0007,code_switch,So,English discourse marker used within Setswana speech
+ANN0036,REC0007,code_switch,3 days,English phrase used within Setswana speech
+ANN0037,REC0007,loanword/adapted,Mantaga,Afrikaans-derived form for Monday incorporated into Setswana vocabulary
+ANN0038,REC0008,code_switch,Software Developer,English job title used within Setswana speech
+ANN0039,REC0008,code_switch,IPSpace,Company name used within Setswana speech
+ANN0040,REC0009,code_switch,project,English technical/work term used within Setswana speech
+ANN0041,REC0009,code_switch,API,Technical acronym used within Setswana speech
+ANN0042,REC0009,loanword/adapted,integrata,English-derived technical form adapted into Setswana morphology
+ANN0043,REC0009,code_switch,backend,English technical term used within Setswana speech
+ANN0044,REC0009,code_switch,API,Technical acronym used within Setswana speech
+ANN0045,REC0009,code_switch,document,English technical/work term used within Setswana speech
+ANN0046,REC0009,code_switch,because,English conjunction used within Setswana speech
+ANN0047,REC0009,code_switch,API endpoints,English technical phrase used within Setswana speech
+ANN0048,REC0009,code_switch,API endpoints,English technical phrase used within Setswana speech
+ANN0049,REC0009,code_switch,integrate to my website,English phrase used within Setswana speech
+ANN0050,REC0009,code_switch,website,English technical term used within Setswana speech
+ANN0051,REC0009,code_switch,ok,English discourse marker used within Setswana speech
+ANN0052,REC0009,code_switch,now,English discourse marker used within Setswana speech
+ANN0053,REC0009,code_switch,frontend,English technical term used within Setswana speech
+ANN0054,REC0009,code_switch,backend,English technical term used within Setswana speech
+ANN0055,REC0009,code_switch,and yeah,English phrase used within Setswana speech
+ANN0056,REC0010,loanword/adapted,recorda,English-derived form from record adapted into Setswana morphology
+ANN0057,REC0010,code_switch,video,English technical/media term used within Setswana speech
+ANN0058,REC0010,code_switch,anyways,English discourse expression used within Setswana speech
+ANN0059,REC0010,code_switch,yeah,English discourse expression used within Setswana speech
+ANN0060,REC0010,code_switch,life goes on,English phrase used within Setswana speech

@@ -1,0 +1,6 @@
+Uhm gompienoana ke tshwanetse gore ke ire, project e. Tshwanetse gore ke bone gore ke 
+tsenya... di API, ka di integrata. Batho ba backend ba setse ba heditse, yanong ke tshwanetse 
+gore ke tseye di API tse ba di mphileng because ba irile document, yanong ke tshwanetse gore 
+bale document ya teng, and then e be ke bona di API endpoints tse ba di dirileng. E be ke tsaya 
+di API endpoints tsena tse, e be ke di integrate to my website and then from there e be ke itse gore 
+ok, now re nale frontend e kgonang go buwa le backend and yeah.
